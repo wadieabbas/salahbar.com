@@ -12,6 +12,11 @@ html {
     opacity: 1;
 }
 
+body {
+    max-width: 1280px;
+    margin: auto;
+}
+
 h1 {
     font-family: 'Poppins', sans-serif;
     font-size: 2.25em;
