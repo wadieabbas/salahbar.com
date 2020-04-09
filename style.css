@@ -8,8 +8,7 @@
 
 html {
   height: 100vh;
-  background: #224285 linear-gradient(180deg, #427eff 0%, #224285 100%) 0% 0%
-    no-repeat;
+  background: #224285 linear-gradient(180deg, #427eff 0%, #224285 100%) 0% 0% no-repeat;
   opacity: 1;
 }
 
@@ -136,8 +135,7 @@ nav {
   font-size: 1rem;
   justify-content: center;
   align-items: center;
-  background: transparent linear-gradient(180deg, #42ffaf 0%, #22856e 100%) 0%
-    0% no-repeat padding-box;
+  background: transparent linear-gradient(180deg, #42ffaf 0%, #22856e 100%) 0% 0% no-repeat padding-box;
   border-radius: 35px;
   opacity: 1;
   transition: 0.2s;
@@ -148,8 +146,7 @@ nav {
 }
 
 .download-button:focus {
-  background: transparent linear-gradient(180deg, #3ff2a8 0%, #1f7863 100%) 0%
-    0% no-repeat padding-box;
+  background: transparent linear-gradient(180deg, #3ff2a8 0%, #1f7863 100%) 0% 0% no-repeat padding-box;
   box-shadow: 0px 6px 8px rgba(0, 0, 0, 30%);
 }
 
@@ -245,8 +242,7 @@ p {
     font-size: 0.7rem;
     justify-content: center;
     align-items: center;
-    background: transparent linear-gradient(180deg, #42ffaf 0%, #22856e 100%) 0%
-      0% no-repeat padding-box;
+    background: transparent linear-gradient(180deg, #42ffaf 0%, #22856e 100%) 0% 0% no-repeat padding-box;
     border-radius: 35px;
     opacity: 1;
     transition: 0.2s;
